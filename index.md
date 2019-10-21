@@ -6,6 +6,14 @@ title: Proyecto Informático I
 
 [html](programa.html) - [pdf](pdf/programa.pdf)
 
+# TP Cliente SQL educativo
+
+Durante tres clases, trabajaremos con Federico Aloi en este proyecto. 
+
+Para ello, es necesario que formen grupos de dos o tres personas y se descarguen el repositorio:
+
+* [Clonar el proyecto](https://classroom.github.com/g/LaLIgL7U)
+
 # TP Vacaciones de invierno
 
 [html](tp-vacaciones.html) - [pdf](pdf/tp-vacaciones.pdf)
