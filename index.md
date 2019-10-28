@@ -12,7 +12,8 @@ Durante tres clases, trabajaremos con Federico Aloi en este proyecto.
 
 Para ello, es necesario que formen grupos de dos o tres personas y se descarguen el repositorio:
 
-* [Clonar el proyecto](https://classroom.github.com/g/LaLIgL7U)
+* [Clase 1: consultas HTTP](https://classroom.github.com/g/LaLIgL7U)
+* [Clase 2: interfaz de usuario](https://github.com/et35-proyecto-info-1/oixum-sql/pull/1)
 
 # TP Vacaciones de invierno
 
